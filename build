@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t "mpangrazzi/redis:2.8.8" .
